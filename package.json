@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "nuxt": "^2.3.4"
+    "firebase": "^7.19.1",
+    "moment": "^2.24.0",
+    "nuxt": "^2.3.4",
+    "vuexfire": "^3.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
